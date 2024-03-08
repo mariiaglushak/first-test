@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Hello my project it is your difficult project jet</p>
+        <p>Hello my project it is your difficult project jet noklooiiuy</p>
       </header>
     </div>
   );
